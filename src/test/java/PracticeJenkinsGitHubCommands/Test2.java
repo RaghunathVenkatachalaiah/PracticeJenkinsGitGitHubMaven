@@ -9,6 +9,7 @@ public class Test2 {
 	public void Test2() {
 		
 		System.out.println("Test2");
+		System.out.println("test3");
 	}
 
 }
